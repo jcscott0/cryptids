@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  background-color: black;
+}
+
+#header {
+  padding: 2px 2px 2px 2px;
+  margin: 0px 0px 0px 0px;
+  background-color: black;
+  color: white;
+}
+
+#header a {
+  color: red;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#header a:hover {
+  color: darkred;
+}
+
+#wlcm {
+  padding: 5px 5px 5px 5px;
+  margin: 15px 50px 0px 50px;
+  color: white;
+  border: 2px solid lightgrey;
+  border-radius: 3px;
+}
+
+#wlcm h2 {
+  color: red;
+}
+
+#cryptidlist {
+  padding: 10px 10px 10px 10px;
+  margin: 10px 50px 0px 50px;
+  background-color: black;
+  color: white;
+  border: 2px solid lightgrey;
+  border-radius: 3px;
+}
+
+#cryptidlist h2 {
+  color: red;
+}
